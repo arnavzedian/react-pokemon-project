@@ -1,8 +1,6 @@
 {
-  "name": "starting-react",
+  "name": "react-pokemon-project",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://rajdeep-das.github.io/starting-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
